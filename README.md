@@ -1,6 +1,6 @@
 # Movie_Comedy_Projection_Project
 
-This is a personal web-scrape project with the end-goal of determining the most profitable 'formula' for Hollywood comedies. 
+This is a personal web-scrape side project with the end-goal of determining the most profitable 'formula' for Hollywood comedies. 
 
 As a comedy writer with several scripts under his belt, only one has seen production, and that was on a local stage in a city 1,000 miles away from me.  Not only that, but it was a comedy about single African-American women struggling to meet good, quality men online.  While I am not black woman, I was hired by one to write the project based on her outline.  She loved it and put it on stage, and - to her credit - she and the cast received several accolades for their work.  
 
